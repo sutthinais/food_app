@@ -1,16 +1,20 @@
-# food_app
 
-App design
+#Flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 2.10.3, on Microsoft Windows [Version 10.0.19044.1706], locale th-TH)
+[√] Android toolchain - develop for Android devices (Android SDK version 31.0.0)
+[√] Chrome - develop for the web
+[√] Visual Studio - develop for Windows (Visual Studio Build Tools 2019 16.11.11)
+[√] Android Studio (version 4.1)
+[√] VS Code (version 1.67.2)
+[√] Connected device (4 available)
+[√] HTTP Host Availability
 
-## Getting Started
+# install && download flutter 
+https://docs.flutter.dev/get-started/install
 
-This project is a starting point for a Flutter application.
+# run app
+flutter run  //debug mode
+flutter run  --release // release mode
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
