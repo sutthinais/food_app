@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642050108207",
+    "firebase_url": "https://food-restaurant-76f72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-restaurant-76f72",
+    "storage_bucket": "food-restaurant-76f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642050108207:android:6b723b93aed67f88408fda",
+        "android_client_info": {
+          "package_name": "com.application.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642050108207-7ad6f0taqmotboa8m37j11uhpicm00ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwGrYoqXgC2Z0tGwOdy-SWSvcLacrOFPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642050108207-7ad6f0taqmotboa8m37j11uhpicm00ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
